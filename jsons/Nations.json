@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Alchembrew",
-		"leaderName": "Zephyr Maelstrom",
-		"adjective": ["Alchembrewian"],
+		"name": "Grand Duchy of Luxembourg",
+		"leaderName": "Xavier Bettel",
+		"adjective": ["Luxembourgish"],
 		"startBias": ["Grassland","Coast"],
 		"preferredVictoryType": "Domination",
 		
@@ -12,7 +12,7 @@
 		"declaringWar": "You have crossed Alchembrew one too many times. Now, prepare to be destroyed like the you have. never seen before",
 		"attacked": "Your army fighting my army is like bringing a knife to a gunfight. After we win the war, you will be exiled, and forced to live away from any civilization, as an outcast."
 		"defeated": "We may have fallen, but the Aether will still crush you.",
-		"introduction": "Hello. I am President Zephyr Maelstrom, of Alchembrew.  I welcome you to the land of the Rising Star.  Would you like to play a game of football?",
+		"introduction": "Hello. I am Prime Minister Bettel, of Luxembourg.  I welcome you to the my land.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [0,71,171],
-		"innerColor": [220,20,60],
+		"outerColor": [0,163,224],
+		"innerColor": [239,51,64],
 		"unique": "Starts with [Mobile Tactics]",
 		"cities": ["Alchembrew","Dryden","Milwaukee","New Viridia","Westport","Valour Port","New Amsterdam","New Rotterdam","New Fresno", "New Kennewick", "New Astana"]
 	}
